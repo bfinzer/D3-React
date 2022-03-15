@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App div {
+  margin: 10px;
+}
+
+.d3Drawing rect {
+  fill: steelblue;
+}
+
+.d3Drawing text {
+  fill: black;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.dot {
+  stroke: black;
+}
